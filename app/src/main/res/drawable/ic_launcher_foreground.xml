@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- The wave mark: five rounded bars at speaking-level heights, matching the
+         wordmark drawn in Components.kt. Kept inside the 72dp adaptive-icon safe
+         zone (centre 18..90) so no mask crops it. -->
+    <!-- bar 1 -->
+    <path android:fillColor="#FFE25C02"
+        android:pathData="M27,41 m-5,0 a5,5 0 0,1 10,0 l0,26 a5,5 0 0,1 -10,0 z"/>
+    <!-- bar 2 -->
+    <path android:fillColor="#FFF97A12"
+        android:pathData="M41,31 m-5,0 a5,5 0 0,1 10,0 l0,46 a5,5 0 0,1 -10,0 z"/>
+    <!-- bar 3 (tallest) -->
+    <path android:fillColor="#FFFF8A2B"
+        android:pathData="M55,26 m-5,0 a5,5 0 0,1 10,0 l0,56 a5,5 0 0,1 -10,0 z"/>
+    <!-- bar 4 -->
+    <path android:fillColor="#FFF97A12"
+        android:pathData="M69,34 m-5,0 a5,5 0 0,1 10,0 l0,40 a5,5 0 0,1 -10,0 z"/>
+    <!-- bar 5 -->
+    <path android:fillColor="#FFE25C02"
+        android:pathData="M83,44 m-5,0 a5,5 0 0,1 10,0 l0,20 a5,5 0 0,1 -10,0 z"/>
+</vector>

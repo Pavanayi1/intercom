@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+hs_err_pid*.log
+logs/
+*.apk
+*.aab
+*.jks
+*.keystore
+!debug.keystore
+scratchpad/
+.claude/
+
+# Compiled binaries
+tools/mac_hfp_ag
+tools/HfpAG.app/
